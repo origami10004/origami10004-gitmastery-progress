@@ -329,5 +329,14 @@
       "Branch 'optimization-approach-2' still exists! Remember to delete it"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1786530576.028227,
+    "completed_at": 1786530577.687532,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
